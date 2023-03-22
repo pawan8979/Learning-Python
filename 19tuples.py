@@ -12,3 +12,4 @@ if 6 in tup:
 
 tup2= tup[1:4]
 print(tup2)
+
